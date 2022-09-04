@@ -1,0 +1,35 @@
+.baner {
+    background-color: #45517D;
+    color: white;
+    font-size: 120%;
+    text-align: right;
+    height: 60px;
+}
+.panel-left {
+    background-color: #61B2EC;
+    width: 40%;
+    height: 500px;
+    padding-top: 10px;
+    float: left;
+}
+.panel-right {
+    background-color: #8EC9F2;
+    width: 100%;
+    height: 500px;
+    padding-top: 10px;
+    padding-right: 100vh;    
+}
+footer {
+    background-color: #45517D;
+    color: white;
+    font-size: 150%;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+.link {
+    color:orange;
+}
+.link:visited {
+    color: green;
+}
